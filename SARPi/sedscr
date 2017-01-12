@@ -1,0 +1,5 @@
+/^$/d
+s/[ \t]//g
+s/ADD/SKP/
+s/REC/SKP/
+s/OPT/SKP/
