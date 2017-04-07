@@ -1,0 +1,6 @@
+httpd
+apr
+apr-util
+sqlite
+cyrus-sasl
+icu4c

@@ -1,0 +1,6 @@
+cmake
+cyrus-sasl
+libarchive
+libxml2
+lzo
+nettle

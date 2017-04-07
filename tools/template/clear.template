@@ -1,0 +1,8 @@
+#include cmake.template
+#include compile.template
+#include freeswitch.template
+#include git.template
+#include httpd.template
+#include mariadb.template
+#include php.template
+#include vim.template

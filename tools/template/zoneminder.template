@@ -1,0 +1,15 @@
+perl
+guile
+gc
+libffi
+libunistring
+glibc-zoneinfo
+openssl
+libidn
+libjpeg-turbo
+glib2
+polkit
+pcre
+gnutls
+flex
+p11-kit
